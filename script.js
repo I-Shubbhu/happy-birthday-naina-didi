@@ -18,11 +18,18 @@ function playSoundEffect(soundId) {
 
 function getMessages() {
     return [
-        "Yeaaayy!! So Naina Didi finally it's your Birthday🎂 aur mere pass kuch hai aapke liye chlo dekhte hai kya hai woh😁",
+        "Yeaaayy!! Happyyy Birthday Naina Didi🎂 aapko pta hai? mere pass kuch hai aapke to liye chlo dekhte hai kya hai woh😁",
         "Lekin sabse pehle ek rule hai okay... Jo aapko follow krna hai and no cheating thik hai?? 😏👀",
         "Toh rule ye hai ki jo message aapke samne hoga aapko pehle woh padhna tabhi aage jana hai 😁",
         "Aur agar uss message mai koi task hua to pehle woh complete krna hai tabhi next message pe jaogi okay😊",
-        "Chlo fir ab aapka task hai ki aapko apna gift dhoodna hai ki kaha hai woh..👀"
+        "Chlo fir ab aapka task hai ki aap jao or oven check karo👀",
+        "A reminder ki cheating nhi krni koi bhi step skip nhi krna okay😎 ab aap next msg dekh sakti ho😁",
+        "Toh abhi tak aap apne laptop tak pohnch gayi ab time hai next jgah pe dekhne ka, so check your almirah😜😛",
+        "Ab jaldi jao PVC wale room m aadi ke pass bhi kuch hai aapke liye☺️",
+        "Soo, all thanks to Aadi jo ye sab possible hua banda boht samajhdar hai😂",
+        "So agar aapne gift dekha hai to aap kl wahi pehnoge jab aaoge milne ke liye😁❤️",
+        "And ab aap dusra gift ka sochre hoge to btadu ki humare m khali purse nhi dete behno ko🤗",
+        "And finally Happiest birthday meri pyari behna🤗 aap humesha happy happy raho 😊❤️ and stay healthy, mere pass words to nahi hai ki describe kr saku, ki aap kitni important ho mere liye but still you are my sunshine🌻"
     ];
 }
 
