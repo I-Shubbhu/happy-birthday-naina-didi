@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Naina Didi Ka Bday Aaya</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Kalam:wght@300&family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Kalam:wght@300&family=Lora:ital,wght@0,400..700;1,400..700&family=Pacifico&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('ts.svg'); /* Replace with your SVG code */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h2>Happy Birthday Naina Didi <br> ❤️</h2>
+    </header>
+    <main>
+        <div id="message-container">
+            <img class="gif" alt="gif" src="https://media.giphy.com/media/opvdnsIBv1AciolLjk/giphy.gif"/>
+            <div id="message-frame" class="yellow-border"></div>
+            <div>
+                <button id="prev-button" onclick="showPrevMessage()" style="display: none;">⬅️</button>
+                <audio id="prev-audio" src="button.mp3"></audio>
+                <button id="next-button" onclick="showNextMessage()">➡️</button>
+                <audio id="next-audio" src="button.mp3"></audio>
+            </div>
+        </div>
+    </main>
+<div>
+    <h4>With<br> ❤️<br> Shubhanshu Bhaiya</h4>
+</div>
+    <audio id="background-music">
+        <source src="happy.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <script src="script.js"> </script>
+</body>
+</html>
