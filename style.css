@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-repeat: repeat;
+    overflow-x: hidden;
 }
 
 header {
@@ -28,7 +29,7 @@ h2{
     text-align: center;
     font-family: "lora", cursive;
     font-size: 1.5em;
-    color: #ffffff; /* Light pink text color */
+    color: #f6f1f1; /* Light pink text color */
     margin: 15px 0;
     position: relative; top: 5px;
 }
