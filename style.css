@@ -30,6 +30,7 @@ h2{
     font-size: 1.5em;
     color: #ffffff; /* Light pink text color */
     margin: 15px 0;
+    position: relative; top: 5px;
 }
 
 
@@ -37,7 +38,7 @@ h4{
     text-align: center;
     font-family: 'Caveat', cursive;
     color: #000000; /* Light pink text color */
-    margin: -100px;
+    margin: -200px;
 }
 
 button {
@@ -89,8 +90,8 @@ button:hover {
 #message-container {
     font-family: 'Kalam', cursive;
     font-size: large;
-    position: absolute;
-    color: #e94d58; /* Light pink text color */
+    position: absolute; top: 150px;
+    color: #e61d1d; /* Light pink text color */
     background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent white background */
     width: absolute;
     text-align: center;
